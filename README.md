@@ -5,5 +5,6 @@ functional and logical programing
 ## некоторые команды
 Пример загрузки файла в Windows:
 > (load "E:\\programming\\FLP\\lab1.lisp")
+
 Если в загруженном файле есть функция с названием "qwe" и двумя параметрами, то она вызывается так:
 > (qwe 1 2)
